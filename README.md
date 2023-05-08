@@ -44,4 +44,4 @@ No mais, fiquem à vontade para me conhecer melhor e tirar suas dúvidas comigo,
      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcos-vvc}/count.svg"/></p> 
 </div>
 
-![Snake animation](https://github.com/Marcos-vvc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcos-vvc/marcos-vvc/blob/output/github-contribution-grid-snake.svg)
